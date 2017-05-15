@@ -1,2 +1,3 @@
 # glitch-art
-Glitch Art Image Processor 
+Glitch Art Image Processor
+Python
